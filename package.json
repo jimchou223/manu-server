@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/jimchou223/menu-server#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongodb": "^3.3.5",
+    "mongoose": "^5.7.13"
   }
 }
